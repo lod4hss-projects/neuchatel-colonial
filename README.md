@@ -1,2 +1,3 @@
 # neuchatel-colonial
-The public website
+
+The public website of the project
